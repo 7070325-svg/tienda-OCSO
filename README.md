@@ -54,4 +54,4 @@ Este repositorio incluye:
 - `README.md`: Documentación del proyecto.
 
 ---
-Desarrollado para fines educativos en programación de algoritmos.
+Desarrollado para fines educativos como parte de la actividad: Evidencia de aprendizaje, en programación de algoritmos.
